@@ -10,7 +10,7 @@ Your task is to build a lightweight version of a REST API for Kupatana.
 - category
 - creationDate
 
-### The endpoint should enable the following functionality
+### The endpoints should enable the following functionality
 - It should be possible to fetch a list with ads
   - It should be possible to filter by category, before date and after date
   - It should be possible to apply multiple filters in the same request
