@@ -1,12 +1,27 @@
-# Kupatana-Light
-Kupatana är en köp och sälj sida där användare kan lägga upp annonser och bläddra igenom annonser som andra har lagt upp.
+# Kuptana-Light
+Kuptana is a buy and sell site where users can post ads and look at ads that others have posted.
 
-Din uppgift är att bygga en light-version av ett REST API för Kupatana.
+Your task is to build a lightweight version of a REST API for Kupatana.
 
-Krav:
-- Det ska gå att hämta en lista med alla annonser som lagts upp.
-- Det ska gå att skapa nya annonser
-- Det ska gå att hämta en specifik annons
-- Annonserna ska sparas i en databas
+## Requirements
+- It should be possible to fetch a list with all posted ads
+- It should be possible to create new ads
+- It should be possible to fetch a specific ad
+- The ads should be saved in a database
+- Your solution should be documented in a README file
 
-Gör en fork på det här github-repot och implementera ett API med hjälp de teknologier du tycker passar bäst för ändamålet.
+Our preferred languages are:
+- Kotlin
+- Java
+- Node JS
+
+However you are free to choose the technology you feel is best suited for the task at hand.
+
+## Assessment
+Your solution will be assessed based on:
+- Structure
+- Maintainability
+- Usability for API users
+
+## Submission
+- Submit your solution in a zip file to your contact person at Levels
