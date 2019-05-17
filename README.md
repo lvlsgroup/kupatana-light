@@ -4,13 +4,13 @@ Kuptana is a buy and sell site where users can post ads and look at ads that oth
 Your task is to build a lightweight version of a REST API for Kupatana.
 
 ## Requirements
-### An ad should have the following properties
+### Ad properties
 - title
 - description
 - category
 - creationDate
 
-### The endpoints should enable the following functionality
+### Endpoint functionality
 - It should be possible to fetch a list with ads
   - It should be possible to filter by category, before date and after date
   - It should be possible to apply multiple filters in the same request
