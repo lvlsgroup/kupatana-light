@@ -4,7 +4,7 @@ Kuptana is a buy and sell site where users can post ads and look at ads that oth
 Your task is to build a lightweight version of a REST API for Kupatana.
 
 ## Requirements
-### An add should have the following properties
+### An ad should have the following properties
 - title
 - description
 - category
