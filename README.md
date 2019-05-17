@@ -4,14 +4,22 @@ Kuptana is a buy and sell site where users can post ads and look at ads that oth
 Your task is to build a lightweight version of a REST API for Kupatana.
 
 ## Requirements
-- It should be possible to fetch a list with all posted ads
+An add should have the following properties:
+- title
+- description
+- category
+- creationDate
+
+- It should be possible to fetch a list with ads
+  - It should be possible to filter by category, before date and after date
+  - It should be possible to apply multiple filters in the same request
 - It should be possible to create new ads
 - It should be possible to fetch a specific ad
-- The ads should be saved in a database
+- The ads should be saved in a database or a mocked in-memory database
 - Your solution should be documented in a README file
 
 Our preferred languages are:
-- Kotlin
+- **Kotlin**
 - Java
 - Node JS
 
