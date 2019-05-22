@@ -1,5 +1,5 @@
-# Kuptana-Light
-Kuptana is a buy and sell site where users can post ads and look at ads that others have posted.
+# Kupatana-Light
+Kupatana is a buy and sell site where users can post ads and look at ads that others have posted.
 
 Your task is to build a lightweight version of a REST API for Kupatana.
 
