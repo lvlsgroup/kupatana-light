@@ -18,7 +18,7 @@ Your task is to build a lightweight version of a REST API for Kupatana.
 - It should be possible to fetch a specific ad
 
 ### Other requirements
-- The ads should be saved in a database or a mocked in-memory database
+- The ads should be saved in a database
 - Your solution should be documented in a README file
 
 
