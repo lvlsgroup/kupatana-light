@@ -1,7 +1,7 @@
-# Kupatana-Light
-Kupatana is a buy and sell site where users can post ads and look at ads that others have posted.
+# SellingPlatform-light
+SellingPlatform is a buy and sell site where users can post ads and look at ads that others have posted.
 
-Your task is to build a lightweight version of a REST API for Kupatana.
+Your task is to build a lightweight version of a REST API for SellingPlatform.
 
 ## Requirements
 ### Ad properties
@@ -9,18 +9,24 @@ Your task is to build a lightweight version of a REST API for Kupatana.
 - description
 - category
 - creationDate
+- owner (user)
+
+### User properties
+- name
+- email
 
 ### Endpoint functionality
-- It should be possible to fetch a list with ads
-  - It should be possible to filter by category, before date and after date
-  - It should be possible to apply multiple filters in the same request
-- It should be possible to create new ads
-- It should be possible to fetch a specific ad
+It should be possible to:
+- Fetch a list with ads
+  - Filter by category, before date and after date
+  - Apply multiple filters in the same request
+- Create new ads
+- Update an ad
+- Fetch a specific ad
 
 ### Other requirements
 - The ads should be saved in a database
 - Your solution should be documented in a README file
-
 
 ### Technologies
 Our preferred languages are:
